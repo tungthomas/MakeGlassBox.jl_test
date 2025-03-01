@@ -1,6 +1,6 @@
 name = "MakeGlassBox"
 uuid = "98fafadc-0a2f-4a93-9dda-8d278c8022c2"
-authors = ["Chia-Yu Hu <cyhu.astro@gmail.com> and Pei-Cheng Tung <pctung0224@gmail.com>"]
-version = "0.0.0"
+authors = ["Chia-Yu Hu <cyhu.astro@gmail.com>", "Pei-Cheng Tung <pctung0224@gmail.com>"]
+version = "0.1.0"
 
 [deps]
