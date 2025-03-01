@@ -1,0 +1,6 @@
+name = "MakeGlassBox"
+uuid = "98fafadc-0a2f-4a93-9dda-8d278c8022c2"
+authors = ["Chia-Yu Hu <cyhu.astro@gmail.com> and contributors"]
+version = "0.0.0"
+
+[deps]
