@@ -1,6 +1,8 @@
 # MakeGlassBox.jl
 generate a glass-like particle distribution in a cubic box
 
+Pei: Add a Project.toml to download
+
 
 # Quick Start
 ```
